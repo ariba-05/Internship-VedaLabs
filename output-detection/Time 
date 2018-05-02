@@ -1,0 +1,27 @@
+viola jones 
+	avg time/frame - 0.018536925944376913 s CPU/normal resol 
+                         0.017917753983884788 s CPU/360p
+                         0.028937744549582 s    CPU/480p
+                         0.059716946295149925 s CPU/720p
+	fps	       - 53.946377247           normal resol
+			 55.810566486		360p
+			 34.556943382		480p
+			 16.745665377		720p
+
+dlibHOG  
+        avg time/frame -  0.0721774979509243 s  CPU/normal resolution 
+                          0.07414539752819417 s CPU/360p
+                          0.13077462578490245 s CPU/480p
+                          0.38163603571471094 s CPU/720p
+	fps            -  13.854733517		CPU/normal
+		          13.487013804		CPU/360p
+			  7.646743349		CPU/480p
+			  2.62029763  		CPU/720p
+
+dlibCNN 
+	avg time/frame -  1.3311623943710997 s  CPU normal resol
+	fps 	       -  0.751223145		CPU/normal resolution
+
+
+
+
